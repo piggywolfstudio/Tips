@@ -1,15 +1,17 @@
 # 编译器、编辑器、IDE
 
 ## 编辑器是什么?
+**Editor**     
 代码编辑器通常自身并不能编译或是运行程序，只是提供了一个编辑文本、编辑代码的平台     
 典型的编辑器比如：Vim(Vim神教万岁)、Emacs、Sublime Text、Atom(Github开发的噢)……    
     
 ## 编译器是什么？
+**Compiler**     
 通俗来说，编译器就是一个讲一种语言翻译成另一种语言的程序，通常是将高级语言翻译为低级语言    
 比如gcc、g++等
 
 ## IDE又是什么？    
-集成开发环境(Integrated Development Environment)     
+**集成开发环境(Integrated Development Environment)**     
 顾名思义，IDE是用于提供程序开发环境的应用程序，集成了一系列功能   
 集成了代码的编写、分析、编译、调试等功能    
 一般包括代码编辑器、编译器、调试器以及图形化用户界面等工具    
